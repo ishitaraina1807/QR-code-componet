@@ -1,2 +1,2 @@
 # QR-code-componet
-basic qr code component using html and css 
+This is a basic front-end Mentor challenege done using HTML and CSS
