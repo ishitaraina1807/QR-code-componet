@@ -1,11 +1,11 @@
 body {
     background-color: hsl(212, 45%, 89%);
+    min-height: 100vh;
+    display: grid;
+    place-items: center;
 }
-.body {
+.wrapper {
     background-color: hsl(0, 0%, 100%);
-    margin-top: 120px;
-    margin-left: auto;
-    margin-right: auto;
     max-width:275px;
     height:auto;
     border-radius: 5%;
