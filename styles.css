@@ -1,6 +1,5 @@
 body {
     background-color: hsl(212, 45%, 89%);
-    min-height: 100vh;
     display: grid;
     place-items: center;
 }
